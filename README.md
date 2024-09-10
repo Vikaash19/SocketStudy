@@ -1,5 +1,8 @@
 # Ex.No:1a  			Study of Socket Programming
 
+## Name: Vikaash K S
+## Register Number: 212223240179
+
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
